@@ -1,0 +1,6 @@
+# ---------- _config.yml ----------
+title: "Your Name - Portfolio"
+description: "B.Com., LL.B. (Hons.) Student - Resume Website"
+baseurl: "" 
+url: "https://<your-github-username>.github.io"
+theme: minima
